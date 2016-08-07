@@ -3,20 +3,20 @@
 # Discussion, issues and change requests at:
 #   https://github.com/nodesource/distributions
 #
-# Script to install the NodeSource Node.js v0.12 repo onto a
+# Script to install the NodeSource Node.js v6.x repo onto a
 # Debian or Ubuntu system.
 #
 # Run as root or insert `sudo -E` before `bash`:
 #
-# curl -sL https://deb.nodesource.com/setup_0.12 | bash -
+# curl -sL https://deb.nodesource.com/setup_6.x | bash -
 #   or
-# wget -qO- https://deb.nodesource.com/setup_0.12 | bash -
+# wget -qO- https://deb.nodesource.com/setup_6.x | bash -
 #
 
 export DEBIAN_FRONTEND=noninteractive
-SCRSUFFIX="_0.12"
-NODENAME="Node.js v0.12"
-NODEREPO="node_0.12"
+SCRSUFFIX="_6.x"
+NODENAME="Node.js v6.x"
+NODEREPO="node_6.x"
 NODEPKG="nodejs"
 
 print_status() {
