@@ -1,12 +1,16 @@
 # [NodeSource](http://nsrc.io/release-updates-1) Node.js and io.js Binary Distributions
 
-![Linux Distributions](https://nodesource.com/assets/external/linux-distributions.svg)
+<a href="https://nodesource.com">
+  ![Linux Distributions](https://nodesource.com/assets/external/linux-distributions.svg)
+<a/>
 
 This repository contains the source of the **[NodeSource](http://nsrc.io/release-updates-1)** **[Node.js](http://nodejs.org)** and **[io.js](https://iojs.org)** Binary Distributions setup and support scripts.
 
 ----------------------------------
 
-<img src="https://downloads.nodesource.com/img/nsolid.svg" width="25%">
+<a href="https://nodesource.com/products/nsolid">
+  <img src="https://downloads.nodesource.com/img/nsolid.svg" width="25%">
+</a>
 
 If you are looking for NodeSource's Enterprise-grade Node.js platform, **[N|Solid](https://nodesource.com/products/nsolid)**, please visit **<https://downloads.nodesource.com/>**
 
@@ -279,6 +283,7 @@ NodeSource will continue to maintain the following architectures and may add add
 
 **Supported Fedora versions:**
 
+* **Fedora 24 (Twenty Four)** (32-bit and 64-bit) **[For Node >= 4.4.6]**
 * **Fedora 23 (Twenty Three)** (32-bit and 64-bit) **[For Node >= 4.2.x]**
 * **Fedora 22 (Twenty Two)** (32-bit and 64-bit)
 
